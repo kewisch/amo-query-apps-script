@@ -17,5 +17,6 @@ Do this in a spreadsheet:
 Usage Examples
 --------------
 
-`=AMOGUID(A1)` - Calculate the guid for whatever is in A1
-`=AMOGUID(A1, {"name", "guid", "status"})` - Expand name, guid and add-on status for whatever is in A1
+* `=AMOGUID(A1)` - Calculate the guid for whatever is in A1
+
+* `=AMOGUID(A1, {"name", "guid", "status"})` - Expand name, guid and add-on status for whatever is in A1
